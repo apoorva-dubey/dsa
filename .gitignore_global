@@ -2,5 +2,5 @@
 .DS_Store
 .AppleDouble
 .LSOverride
-.idea/
-node_module/
+.idea/*
+node_module/*
