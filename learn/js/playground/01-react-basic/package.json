@@ -1,0 +1,16 @@
+{
+  "name": "01-react-basic",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "webpack-dev-server --hot"
+  },
+  "author": "apurv",
+  "license": "ISC",
+  "dependencies": {
+    "path": "^0.12.7",
+    "react": "^15.0.1",
+    "react-dom": "^15.0.1"
+  }
+}
