@@ -1,0 +1,6 @@
+## Ignore Mac OS Stuff
+.DS_Store
+.AppleDouble
+.LSOverride
+.idea/
+node_module/
