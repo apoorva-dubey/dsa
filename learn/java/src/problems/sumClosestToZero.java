@@ -1,6 +1,7 @@
 package problems;
 
 /**
+ * In a sorted array
  * Created by apoorvadubey on 3/7/16.
  */
 public class sumClosestToZero {
